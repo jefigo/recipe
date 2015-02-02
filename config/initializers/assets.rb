@@ -9,6 +9,7 @@ Rails.application.config.assets.version = '1.0'
 
 Rails.application.config.assets.precompile += %w(
   bootstrap/glyphicons-halflings-regular.woff2
+  jasmine/1.3.1.js
   teaspoon.css
   teaspoon-teaspoon.js
   teaspoon-jasmine.js

@@ -16,7 +16,7 @@ gem 'spring',        group: :development
 gem 'uglifier', '>= 1.3.0'
 
 group :test, :development do
-  gem 'rspec-rails', '~> 2.0'
+  gem 'rspec-rails', '~> 3.0'
   gem 'factory_girl_rails', '~> 4.0'
   gem 'capybara'
   gem 'database_cleaner'
